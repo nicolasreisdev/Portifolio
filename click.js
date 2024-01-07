@@ -1,8 +1,8 @@
-var profisional = window.document.getElementById('prof');
+const profisional = window.document.getElementById('prof');
 /*var hard = window.document.getElementById('hard');
 var soft = window.document.getElementById('soft');
 var cont = window.document.getElementById('contatos');*/
-var pessoal = window.document.getElementById('pessoal');
+const pessoal = window.document.getElementById('pessoal');
 function clicar(){
     window.location = "pessoal.html";
 }
